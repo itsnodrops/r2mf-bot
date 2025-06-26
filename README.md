@@ -1,7 +1,7 @@
 # 🔥 R2 Money Final Testnet Bot 🔥
 
 Welcome to the **R2 Money Final Testnet Bot**! \
-This is a powerful automation tool designed to interact with the [R2 Money Final Testnet](https://www.r2.money/). This bot helps you automate various tasks across multiple accounts, maximizing your potential engagement with the protocol.
+This is a powerful automation tool designed to interact with the [R2 Money Final Testnet](https://www.r2.money/?code=PWNLN). This bot helps you automate various tasks across multiple accounts, maximizing your potential engagement with the protocol.
 
 
 ---
