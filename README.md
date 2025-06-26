@@ -15,7 +15,6 @@ This bot comes packed with features to automate your entire workflow:
 -   **🔄 Smart Swap Cycle:** Executes a strategic swap routine (USDC -> R2 -> R2USD -> R2 -> USDC) to efficiently build up your trading volume.
 -   **💰 Asset Consolidation:** After the swap cycle, it intelligently consolidates all your assets into R2USD.
 -   **⚖️ Dynamic Liquidity Provision:** Calculates the optimal ratio and automatically stakes a portion of R2USD to sR2USD before adding liquidity to the pool.
--   **🤝 Auto Referral Binding:** Automatically binds your referral code if it hasn't been done already.
 -   **🖥️ Real-time Dashboard:** A clean and comprehensive terminal dashboard to monitor the status, balances, points, and logs for all your accounts in real-time.
 -   **🔄 Continuous Cycle Mode:** Optionally, the bot can run in a continuous loop, resetting at a specified time each day to perform the tasks all over again.
 
