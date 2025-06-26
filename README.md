@@ -26,7 +26,7 @@ The project is organized to be clean and maintainable. Here's a look at the key 
 
 ```
 
-r2m-final-bot/
+r2mf-bot/
 ├── app.js               \# Main entry point of the application
 ├── config.js            \# Main configuration (swap volume, cycle reset)
 ├── .env.example         \# Example file for environment variables (Private Keys & Discord Token)
