@@ -1,0 +1,35 @@
+{
+  "name": "r2mf-bot",
+  "version": "1.0.0",
+  "description": "An automation for interacting with R2 Money Final Testnet phase",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnodrops/r2mf-bot.git"
+  },
+  "keywords": [
+    "airdrop",
+    "ethers",
+    "testnet",
+    "evm",
+    "nodrops"
+  ],
+  "author": "itsnodrops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsnodrops/r2mf-bot/issues"
+  },
+  "homepage": "https://github.com/itsnodrops/r2mf-bot#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.14.4",
+    "figlet": "^1.8.1",
+    "form-data": "^4.0.3",
+    "ws": "^8.18.2"
+  }
+}
