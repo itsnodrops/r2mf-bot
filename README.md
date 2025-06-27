@@ -1,6 +1,6 @@
 # R2MF Bot by NoDrops 🤖✨
 
-Welcome to the **R2MF Bot**\! This is a powerful automation tool designed to interact with the [R2.Money Final Testnet phase](https://www.r2.money/?code=PWNLN). It handles everything from claiming faucet tokens to executing complex DeFi operations like swapping, staking, and providing liquidity, all through a sleek and informative command-line dashboard.
+Welcome to the **R2MF Bot**\! This is a powerful automation tool designed to interact with the [R2.Money Final Testnet phase](https://www.r2.money?code=PWNLN). It handles everything from claiming faucet tokens to executing complex DeFi operations like swapping, staking, and providing liquidity, all through a sleek and informative command-line dashboard.
 
 -----
 
@@ -36,7 +36,7 @@ The bot operates in a continuous, configurable cycle. Here’s a high-level over
 
 ### 📋 Requirements
 
-Before starting, make sure you have claimed the yield reward from season 0 [(CLAIM HERE)](https://www.r2.money/?code=PWNLN) and have the following installed in your system:
+Before starting, make sure you have claimed the yield reward from season 0 [(CLAIM HERE)](https://www.r2.money?code=PWNLN) and have the following installed in your system:
 
   * **[Node.js](https://nodejs.org/)**: Version 14.x or higher.
   * **[npm](https://www.npmjs.com/)**: Usually comes with Node.js.
