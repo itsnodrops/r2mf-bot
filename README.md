@@ -36,7 +36,7 @@ The bot operates in a continuous, configurable cycle. Here’s a high-level over
 
 ### 📋 Requirements
 
-Before you begin, ensure you have the following installed on your system:
+Before starting, make sure you have claimed the yield reward from season 0 [(CLAIM HERE)](https://www.r2.money/?code=PWNLN) and have the following installed in your system:
 
   * **[Node.js](https://nodejs.org/)**: Version 14.x or higher.
   * **[npm](https://www.npmjs.com/)**: Usually comes with Node.js.
@@ -100,17 +100,11 @@ The source code provided in the distribution is obfuscated. A clean version will
 
 -----
 
-### 📣 Join Our Community\!
-
-Have questions, need support, or just want to hang out with other airdrop hunters?
-
-  * **Join our Telegram Channel**: [**NoDrops**](https://t.me/NoDrops)
-
------
-
 ### ▶️ How to Run?
 
 A complete, step-by-step tutorial on how to set up and run this bot is available on the [**NoDrops**](https://t.me/NoDrops) Telegram channel. Please refer to it for detailed instructions.
+* [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/12px-Telegram_logo.svg.png)](https://t.me/NoDrops) [NoDrops Telegram Channel](https://t.me/NoDrops)
+* [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/12px-Telegram_logo.svg.png)](https://t.me/NoDropsChat) [NoDrops Telegram Group](https://t.me/NoDropsChat)
 
 -----
 
@@ -121,6 +115,15 @@ If you find this tool helpful and want to support its development and the creati
 * **TON**: `UQDoLQNF-nt9CFOHBs9mQqxH9YJKrZ6mFPbAeHH8Jo9xIGCb`
 * **EVM**: `0xfD1847bFAA92fb8c0d100b207d377490C5acd34c`
 * **SOL**: `BBZjp11sJNvekXZEBhhYDro9gsyyhEKXXcfEEub5ubje`
+
+-----
+
+### 📣 Join Our Community\!
+
+Have questions, need support, or just want to hang out with other airdrop hunters?
+
+* [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/12px-Telegram_logo.svg.png)](https://t.me/NoDrops) [NoDrops Telegram Channel](https://t.me/NoDrops)
+* [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/12px-Telegram_logo.svg.png)](https://t.me/NoDropsChat) [NoDrops Telegram Group](https://t.me/NoDropsChat)
 
 -----
 
