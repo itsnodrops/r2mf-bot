@@ -116,8 +116,9 @@ A complete, step-by-step tutorial on how to set up and run this bot is available
 
 If you find this tool helpful and want to support its development and the creation of more tools like this, please consider donating. Your support is greatly appreciated!
 
-  * **EVM Address (ETH, BNB, etc.)**: `0x...`
-  * **BTC Address**: `bc1...`
+  * **EVM Address**: `0xfD1847bFAA92fb8c0d100b207d377490C5acd34c`
+  * **SOL Address**: `BBZjp11sJNvekXZEBhhYDro9gsyyhEKXXcfEEub5ubje`
+  * **TON Address**: `UQDoLQNF-nt9CFOHBs9mQqxH9YJKrZ6mFPbAeHH8Jo9xIGCb`
 
 -----
 
