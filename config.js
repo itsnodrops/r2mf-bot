@@ -1,20 +1,26 @@
+const { SEPOLIA, MONAD, PHAROS } = require('./src/core/networks');
+
 module.exports = {
+  /**
+   * An array of network configurations the bot will cycle through.
+   * The bot will process all accounts on the first network, then move to the next.
+   * Example: [SEPOLIA, MONAD] will run on Sepolia first, then Monad.
+   */
+  ACTIVE_NETWORKS: [SEPOLIA, MONAD, PHAROS],
+
   // Set to true to enable the faucet claim process.
   FAUCET_ENABLE: true,
 
   // The target trading volume (buy and sell) to reach during the swap cycle.
-  SWAP_VOLUME: 40000,
+  SWAP_VOLUME: 40000, // Only for Sepolia network.
 
-  // Set to true to enable the bot to run in a continuous loop.
-  // After completing all accounts, it will pause until RESET_TIME.
-  CYCLE_RESET: true,
+  // After completing all networks, it will pause until RESET_TIME.
+  CYCLE_RESET: false, // Set to CYCLE_RESET: true, to enable the bot to run in a continuous loop (especially if you run it on a VPS).
 
-  // The time (in 24-hour format, local machine time) to start the next cycle.
-  // Example: "01:00" will start the next cycle at 1 AM.
-  // Will be igrone if CYCLE_RESET set to false
+  // The time (in 24-hour format) to start the next cycle.
+  // Ignored if CYCLE_RESET: false,
   RESET_TIME: "01:00",
 
-  // Set to true to enable the initial countdown when the bot starts.
-  // Recommended if CYCLE_RESET is enabled.
+  // Set to true to enable an initial startup delay.
   INITIAL_DELAY: true,
 };
